@@ -15,10 +15,10 @@ A simple implementation of the classic Tic Tac Toe game using HTML, CSS, and Jav
 
 ## 📂 Project Structure
 
-📦 tic-tac-toe
-┣ 📜 index.html
-┣ 📜 style.css
-┗ 📜 script.js
+📦 tic-tac-toe <br>
+┣ 📜 index.html <br>
+┣ 📜 style.css<br>
+┗ 📜 script.js<br>
 
 
 - **index.html**: The structure of the game board and main layout.  
